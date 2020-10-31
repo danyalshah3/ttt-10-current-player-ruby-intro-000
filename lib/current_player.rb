@@ -13,6 +13,7 @@ end
 
 def current_player(board)
   counter = 0
+  while counter < 9
 if turn_count(board) == 4 & 2
   counter += 1
 return "X"
