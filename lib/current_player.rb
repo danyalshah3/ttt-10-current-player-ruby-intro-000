@@ -19,3 +19,6 @@ else turn_count(board) == 15 % 2
   return "O"
 end
 end
+
+turn_count(board)
+end
