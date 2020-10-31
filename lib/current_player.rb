@@ -17,4 +17,3 @@ return "X"
 else "O"
 end
 end
-
