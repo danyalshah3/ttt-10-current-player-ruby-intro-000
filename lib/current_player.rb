@@ -17,3 +17,10 @@ if 4 % 2 == 0
   return "X"
 end
 end
+
+def current_player(board)
+  turn_count(board)
+if 15 % 2 == 1
+  return "O"
+end
+end
