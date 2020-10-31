@@ -13,6 +13,6 @@ end
 
 def current_player(board)
   turn_count(board)
-  .even? == "X"
-  .odd? == "O"
+  .even? == "x"
+  .odd? == "o"
   end
