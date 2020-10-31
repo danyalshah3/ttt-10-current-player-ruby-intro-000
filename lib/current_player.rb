@@ -17,4 +17,3 @@ if 4 % 2 == 0
   return "X"
 end
 end
-
