@@ -16,4 +16,3 @@ def current_player(board)
   .even? == "X"
   .odd? == "O"
   end
-  end
