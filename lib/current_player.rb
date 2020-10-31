@@ -21,4 +21,3 @@ end
 end
 
 turn_count(board)
-end
