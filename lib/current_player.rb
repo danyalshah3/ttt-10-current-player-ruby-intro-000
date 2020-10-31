@@ -18,6 +18,6 @@ return "X"
 else turn_count(board) == 15 % 2
   return "O"
 else turn_count(board) == 4 % 2
-  retun "X"
+  return "X"
 end
 end
