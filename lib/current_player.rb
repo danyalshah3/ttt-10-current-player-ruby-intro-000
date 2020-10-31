@@ -13,6 +13,7 @@ end
 
 def current_player(board)
   turn_count(board)
-4 % 2 == "X" || 15 % 2 == "O"
+if 4 % 2 == "X" || 15 % 2 == "O"
+return true
 end
 end
